@@ -1,4 +1,6 @@
-# シンプルなTODOリストをFluxな感じで実装してみる
+# シンプルなTODOリストをFluxな感じで実装してみる(React編)
+ReactNative（アプリ）編はこちら  
+[ReactNative-flux-todo](https://github.com/khirayama/ReactNative-flux-todo)  
 特にFlux用のフレームワークを使わずにFluxっぽい実装をしてみる。
 
 ![React-flux-todo](https://github.com/khirayama/React-flux-todo/blob/gh-pages/public/assets/images/React-flux-todo.png)
@@ -25,4 +27,6 @@ $ gulp
 
 ## デモ
 [React-flux-todo](http://khirayama.github.io/React-flux-todo/public/)
+
+
 
