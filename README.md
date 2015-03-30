@@ -1,6 +1,7 @@
 # シンプルなTODOリストをFluxな感じで実装してみる
 特にFlux用のフレームワークを使わずにFluxっぽい実装をしてみる。
-[デモ]()
+
+![React-flux-todo](http://khirayama.github.io/React-flux-todo/public/images/React-flux-todo.png)
 
 ## 実行手順
 下記を実行してgulpとcoffee-scriptをグローバルにインストール。
@@ -21,3 +22,6 @@ $ sudo npm install
 ```
 $ gulp
 ```
+
+## デモ
+[React-flux-todo](http://khirayama.github.io/React-flux-todo/public/)
